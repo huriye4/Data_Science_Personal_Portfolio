@@ -27,6 +27,6 @@ This website serves as a personal portfolio to highlight my work as a Data Scien
 For any inquiries or feedback, feel free to reach out:
 
 - **Email:** buyukpancarhuriye@gmail.com
-- **GitHub:** github.com/huriye4
-- **LinkedIn:** linkedin.com/in/huriye-büyükpancar
+- **GitHub:** [github.com/huriye4](https://github.com/huriye4)
+- **LinkedIn:** [linkedin.com/in/huriye-büyükpancar](https://www.linkedin.com/in/huriye-b%C3%BCy%C3%BCkpancar/)
 - **Kaggle:** https://www.kaggle.com/huriyebykpancar

@@ -6,7 +6,6 @@ This is the source code for my personal portfolio website, where I showcase my p
 ## Table of Contents
 
 - [About the Project](#about-the-project)
-- [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
 
@@ -14,14 +13,6 @@ This is the source code for my personal portfolio website, where I showcase my p
 ## About the Project
 
 This website serves as a personal portfolio to highlight my work as a Data Scientist, including my background, skills, and key projects. It also provides a way for visitors to contact me directly through the site.
-
-## Features
-
-- **Responsive Design:** Works on various screen sizes including mobile, tablet, and desktop.
-- **Navigation:** Smooth scrolling between sections with a hamburger menu for mobile devices.
-- **Email Integration:** Visitors can send messages directly via the contact form.
-- **Project Showcases:** Detailed descriptions and links to my major data science projects.
-- **External Links:** Easy access to my other professional platforms such as GitHub.
 
 ## Technologies Used
 
